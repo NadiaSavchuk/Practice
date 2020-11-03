@@ -14,12 +14,12 @@ ____
 
 ### Open the shedule:
 
-1.   Press on the field “Комп’ютерні науки/Кібербезпека/Математика/Фінанси і Кредит/Менеджмент/Економіка"
+1.   Press on the button “Комп’ютерні науки/Кібербезпека/Математика/Фінанси і Кредит/Менеджмент/Економіка"
 
 [<img src="screenshots/screen_1.jpg" width="250"/>](screenshots/screen_1.jpg)
 
 
-2.   Press on the field “1 курс/2 курс/3 курс/4 курс"
+2.   Press on the button “1 курс/2 курс/3 курс/4 курс"
 
 [<img src="screenshots/screen_2.jpg" width="250"/>](screenshots/screen_2.jpg)
 
