@@ -2,8 +2,11 @@
 
 ## Launch
 to launch app for Android or IOS you can use 
-[link]()
+[link](https://snack.expo.io/@npsavchuk.fitu17/practice_2020) 
+or
+[link](https://snack.expo.io/@vbbahaturiia/practice_2020) 
 
+[<img src="screenshots/screen_1.jpg" width="250"/>](screenshots/screen_1.jpg)
 ____
 
 
