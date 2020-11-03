@@ -6,7 +6,6 @@ to launch app for Android or IOS you can use
 or
 [link](https://snack.expo.io/@vbbahaturiia/practice_2020) 
 
-[<img src="screenshots/screen_1.jpg" width="250"/>](screenshots/screen_1.jpg)
 ____
 
 
@@ -17,13 +16,16 @@ ____
 
 1.   Press on the field “Комп’ютерні науки/Кібербезпека/Математика/Фінанси і Кредит/Менеджмент/Економіка"
 
-[<img src="screenshots/screen_2.jpg" width="250"/>](screenshots/screen_2.jpg)
+[<img src="screenshots/screen_1.jpg" width="250"/>](screenshots/screen_1.jpg)
 
 
 2.   Press on the field “1 курс/2 курс/3 курс/4 курс"
 
-[<img src="screenshots/screen_3.jpg" width="250"/>](screenshots/screen_3.jpg)
+[<img src="screenshots/screen_2.jpg" width="250"/>](screenshots/screen_2.jpg)
 
+3.Result:
+
+[<img src="screenshots/screen_3.jpg" width="250"/>](screenshots/screen_3.jpg)
 
 ____
 
